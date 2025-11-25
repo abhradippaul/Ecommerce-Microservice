@@ -68,8 +68,8 @@ function Footer() {
             ECOM
           </p>
         </Link>
-        <p className="text-sm text-gray-400 ">C 2025 ECOM.</p>
-        <p>All rights reserved.</p>
+        <p className="text-sm text-gray-400">C 2025 ECOM.</p>
+        <p className="text-sm text-gray-400">All rights reserved.</p>
       </div>
       {PageList.map((section, i) => (
         <div
